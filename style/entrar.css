@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    justify-content: center;
+    background: rgb(65, 77, 77);
+	margin: 0px;
+	border: 1px solid transparent;
+	font-size: 20px;
+	}
+	
+		nav{
+			background: rgba(0,0,0,0.1);
+			margin-top: -8px;
+			width: 1280px;
+			height: 50px;
+			border-radius: 10px;
+			border-bottom: 2px;
+			border-bottom-color: black;
+			border-bottom-style: solid;
+			margin-top: -15px;
+			}
+			 
+		ul{
+			text-align: center;
+			}
+			 
+		li{
+			list-style-type: none;
+			display: inline-block;
+			padding-right: 30px;
+			letter-spacing: 4px;
+			margin-top: 14px;
+			}		
+			
+		a{
+			color: white;
+			text-decoration: none;
+			}
+				
+		a:hover{
+			color: green;
+			}
+			
+			.sobre-mim{
+			
+			}			
+			.sobre-mim p{
+				
+				text-indent: 50px;
+				
+				}
